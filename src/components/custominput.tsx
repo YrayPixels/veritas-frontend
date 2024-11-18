@@ -16,7 +16,6 @@ export default function InputComp({ sx, endItem, startItem, label, type, placeho
             {startItem && startItem}
             <input className={"bg-transparent  w-full focus:outline-none text-[14px] p-2"} type={type ? type : "text"} placeholder={placeholder} />
             {endItem && endItem}
-
         </div>
     );
 }

@@ -19,7 +19,6 @@ export default function About() {
                 </div>
 
                 <div>
-
                     <h3 className="text-[24px] sora-bold font-bold">Our Vision</h3>
                     <p>A future where consumers can trust the products they purchase, and businesses can operate with confidence, knowing their supply chains are secure and transparent.</p>
                 </div>
